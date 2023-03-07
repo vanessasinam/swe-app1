@@ -9,6 +9,7 @@ db.sqlite3
 staticfiles/
 .coverage
 .env
+.settings
 
 # macOS
 .DS_Store
